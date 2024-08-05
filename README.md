@@ -11,11 +11,9 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
   
-## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+
 ## Run Locally
 
 Clone the project
@@ -58,7 +56,7 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
+![](https://github.com//mern-chat-app/blob/master/screenshots/login.PNG)
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
